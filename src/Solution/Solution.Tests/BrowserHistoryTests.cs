@@ -1,5 +1,10 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Solution.BrowserHistory; // Make sure to use the correct namespace
+using Solution.BrowserHistory;
 
 namespace Solution.Tests
 {
